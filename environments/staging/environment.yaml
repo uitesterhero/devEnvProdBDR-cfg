@@ -2,7 +2,7 @@ version: 1.0
 app:
   # build id to deploy
   # version: 1.0-SNAPSHOT-20230716015630
-  # number of instances test
+  # number of instances test again
   instances:
     # q: consider availability zones? 
 
@@ -41,7 +41,7 @@ app:
   #    arn: arn:aws:logs:region:account-id:destination:destination_name
   #    logGroup: myLogGroup
   #    region: us-east-1
-  version: "908eb44e-d106-423a-b6b8-ffff3715504b"
+  version: "3a5d0559-1f5a-4167-88e0-66dcc6be36aa"
 # probes
 # dynamic scaling
 # scaling to 0
